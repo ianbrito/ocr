@@ -1,1 +1,2 @@
-from extrator.extrator import *
+from extrator.extractor import *
+from extrator.classifier import *
